@@ -5,7 +5,7 @@ This is a chat application built using Python 3. It allows multiple clients to c
 
 Getting Started
 - Clone the repository to your local machine.
-- Install the required dependencies using pip install -r requirements.txt.
+- Install the required dependencies.
 - Run the server using python server.py.
 - Launch the client application with python client.py.
 
